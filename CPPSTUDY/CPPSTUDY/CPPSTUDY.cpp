@@ -5,8 +5,12 @@ using namespace std;
 
 #include <iostream>
 #include "Section1_1.h"
+#include "Section1_2.h"
+#include "Section1_3.h"
+#include "Section1_4.h"
+#include "Section1_5.h"
 
 int main()
 {
-	Section1_1();
+
 }
