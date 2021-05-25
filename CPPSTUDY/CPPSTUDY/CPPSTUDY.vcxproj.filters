@@ -32,5 +32,8 @@
     <ClInclude Include="Section1_3.h">
       <Filter>헤더 파일\Section1</Filter>
     </ClInclude>
+    <ClInclude Include="Section1_4.h">
+      <Filter>헤더 파일\Section1</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
