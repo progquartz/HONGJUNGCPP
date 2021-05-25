@@ -31,7 +31,7 @@ void printHelloWorld() { // 리턴해줄 것이 없을 경우에는 void를 쓴다.
 	cout << "Hello World2" << endl;
 }
 
-int main() { // 함수에서도 함수를 호출할 수 있다.
+int section1_5() { // 함수에서도 함수를 호출할 수 있다.
 	cout << MultiplyTwoNumbers(1,2) << endl; // 다음과 같이 패턴을 하고 있었습니다.
 	cout << MultiplyTwoNumbers(3,4) << endl; // 다음과 같이 더하기를 함수화 시킬 수 있다.
 	cout << MultiplyTwoNumbers(8,13) << endl;
