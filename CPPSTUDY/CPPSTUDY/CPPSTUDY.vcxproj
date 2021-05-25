@@ -160,6 +160,7 @@
     <ClInclude Include="Section1_4.h" />
     <ClInclude Include="Section1_5.h" />
     <ClInclude Include="Section1_6.h" />
+    <ClInclude Include="section1_7.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
